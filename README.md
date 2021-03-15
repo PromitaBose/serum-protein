@@ -1,3 +1,3 @@
 # serum-protein
 # Apply SVM to build feature vectors
-# Merge clinical parameters with antibody levels to improve feature construction
+# Use clinical parameters with antibody microarrays to improve feature construction
